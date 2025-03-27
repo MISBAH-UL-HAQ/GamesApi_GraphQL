@@ -1,0 +1,6 @@
+@Games_APi_GraphQL_HostAddress = http://localhost:5253
+
+GET {{Games_APi_GraphQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

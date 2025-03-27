@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Games_APi_GraphQL.props" />
+</Project>
